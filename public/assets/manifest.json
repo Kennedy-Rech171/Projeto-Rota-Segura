@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "images": {},
+  "audio": {},
+  "stages": {
+    "0": ["player", "marco", "scooter", "theme_bairro"],
+    "1": ["player", "marco", "scooter", "theme_scooter"],
+    "2": ["player", "joao", "filipi", "scooter", "theme_centro"],
+    "3": ["player", "joao", "filipi", "scooter", "theme_chuva"],
+    "4": ["player", "maquina", "scooter", "theme_escola"],
+    "5": ["player", "theme_epilogo"]
+  }
+}
